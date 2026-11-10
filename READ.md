@@ -31,26 +31,26 @@ The project follows a structured data engineering and analytics workflow:
 8. Visualization: Present geographical insights using Kepler.gl and React.
 9. Pipeline Automation: Use Apache Airflow to orchestrate the end-to-end workflow.
 
-Technologies Used
+# Technologies Used
 
-Technology| Purpose
-Python| Data processing and analysis
-Snowflake| Cloud data storage and SQL queries
-PySpark| Large-scale data processing
-Apache Sedona| Geospatial analysis and spatial joins
-dbt| Data transformation, testing and documentation
-SQL| Data querying and visitor overlap analysis
-Kepler.gl| Geospatial data visualization
-React| Interactive map interface
+Technology | Purpose
+Python | Data processing and analysis
+Snowflake | Cloud data storage and SQL queries
+PySpark | Large-scale data processing
+Apache Sedona | Geospatial analysis and spatial joins
+dbt | Data transformation, testing and documentation
+SQL | Data querying and visitor overlap analysis
+Kepler.gl | Geospatial data visualization
+React | Interactive map interface
 Apache Airflow| Workflow automation and orchestration
 
-My Role and Responsibilities
+# My Role and Responsibilities
 
-Team Member: Akshaya
+# Team Member: Akshaya
 
 My primary responsibility in this project is Data Quality, dbt Modeling, Testing and Validation.
 
-My contributions include:
+# My contributions include:
 
 - Preparing data quality checklists and validation rules.
 - Inspecting GPS datasets for missing values, duplicate records and invalid data.
@@ -63,7 +63,7 @@ My contributions include:
 - Documenting data integrity checks, validation results and exceptions.
 - Preparing technical documentation and evidence for the final project.
 
-Expected Project Deliverables
+# Expected Project Deliverables
 
 - Synthetic GPS dataset and data dictionary.
 - Snowflake raw data tables.
@@ -81,7 +81,7 @@ Business Value
 
 GeoPulse aims to support retail expansion and location-planning decisions through geospatial insights.
 
-The analysis can help businesses:
+# The analysis can help businesses:
 
 - Understand customer movement and foot traffic.
 - Identify geographical areas with potential retail demand.
@@ -89,12 +89,5 @@ The analysis can help businesses:
 - Identify overlapping customer visits between stores.
 - Evaluate potential store-location cannibalization risks.
 - Make more informed decisions about future store expansion.
-
-Important: Visitor overlap is an estimate of potential cannibalization risk. It does not directly represent lost sales or prove actual revenue cannibalization.
-
-
-Project Status
-
-In Progress
 
 This project uses synthetic and anonymized GPS data for analytical and demonstration purposes. Final results and performance claims will be documented based on actual execution and validation evidence. 
