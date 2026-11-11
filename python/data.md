@@ -1,7 +1,7 @@
 
 # GeoPulse Dataset
 
-## Purpose
+## Purposes
 This folder stores the synthetic GPS movement dataset used in the GeoPulse project.
 
 ## Expected Data
