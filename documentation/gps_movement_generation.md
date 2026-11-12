@@ -1,4 +1,22 @@
+# GPS Movement Generation Logic
 
+## Objective
+To calculate GPS movement using coordinates,
+speed, heading and time intervals.
+
+## Functions
+1. Coordinate Validation
+2. Distance Calculation
+3. Next Position Calculation
+
+## Validation Rules
+- Latitude: -90 to 90
+- Longitude: -180 to 180
+- Speed cannot be negative
+
+## Testing
+Test cases are prepared for coordinate validation,
+distance calculation and GPS movement.
 # GPS Movement Generation Logic
 
 ## 1. Objective
