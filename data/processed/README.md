@@ -41,15 +41,23 @@ Original raw datasets must remain unchanged.
 - Compared distance with store catchment radius.
 - Prepared store-wise activity summary.
 
+
+## Day 7 – Business Insights and Time-Based Analysis
+
+This day focuses on converting GPS analysis into
+business-level insights.
+
 ### Expected Output Files
-- store_proximity_analysis.csv
-- store_activity_summary.csv
 
----
+1. store_performance_analysis.csv
+   - Store-wise GPS activity
+   - Catchment percentage
+   - Average distance from store
+   - Outside catchment pings
 
-## Future Processing
-Additional processed datasets and analysis outputs
-will be added as the project progresses.
+2. time_based_activity_summary.csv
+   - Hour-wise GPS ping counts
+   - Daypart-wise GPS ping counts
 
-**Note:** Output files are generated only after
-successful execution of the respective Python scripts.
+These outputs support store performance comparison
+and time-based GPS activity analysis.
