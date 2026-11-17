@@ -1,0 +1,17 @@
+Validation,Result
+GPS total records,500.0
+GPS total columns,15.0
+Unique GPS devices,118.0
+GPS missing values (all columns),0.0
+GPS duplicate records,0.0
+Minimum latitude,28.454883
+Maximum latitude,28.500743
+Minimum longitude,77.056968
+Maximum longitude,77.100619
+Invalid GPS coordinates,0.0
+Store total records,3.0
+Store total columns,6.0
+Store missing values (all columns),0.0
+Store duplicate records,0.0
+Duplicate Store IDs,0.0
+Unmatched Store IDs,0.0
