@@ -61,3 +61,34 @@ business-level insights.
 
 These outputs support store performance comparison
 and time-based GPS activity analysis.
+
+
+## Day 8 – Dashboard Preparation
+
+This day focuses on preparing dashboard requirements
+and KPI definitions for GeoPulse analytics.
+
+### Dashboard Preparation
+- Defined dashboard KPIs.
+- Prepared dataset column descriptions.
+- Planned dashboard visualizations.
+- Identified required slicers and filters.
+- Defined dashboard layout and design guidelines.
+
+### Planned Dashboard Components
+- KPI cards
+- Hourly GPS activity chart
+- Daypart activity chart
+- Movement mode analysis
+- Store activity comparison
+- GPS location map
+- Interactive slicers
+
+### Documentation Files
+- dashboard_kpi_definitions.md
+- dashboard_data_dictionary.md
+- dashboard_layout_plan.md
+
+Dashboard implementation and actual visual outputs
+will be developed in the upcoming phase.
+
