@@ -1,0 +1,9 @@
+Validation Check,GPS Dataset,Store Dataset
+Missing Values,0,0
+Completely Duplicate Rows,0,0
+Invalid DeviceID,0,Not Applicable
+Invalid GPS Coordinates,0,Not Applicable
+Invalid Store Coordinates,Not Applicable,0
+Invalid Timestamps,0,Not Applicable
+Backward Timestamps,183,Not Applicable
+Repeated Device-Time Combinations,0,Not Applicable
