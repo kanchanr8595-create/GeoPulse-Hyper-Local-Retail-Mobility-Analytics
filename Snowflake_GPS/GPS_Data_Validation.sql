@@ -1,0 +1,21 @@
+
+-- GeoPulse: Snowflake GPS Data Verification
+-- 1. Verify total GPS records
+
+SELECT COUNT(*) AS TOTAL_RECORDS
+FROM GEOPULSE_DB.PUBLIC.RAW_GPS_PINGS;
+
+
+-- 2. Check table structure
+
+DESC TABLE GEOPULSE_DB.PUBLIC.RAW_GPS_PINGS;
+
+
+-- 3. Analyze GPS pings by day of week
+
+SELECT
+    DAY_OF_WEEK,
+    COUNT(*) AS TOTAL_PINGS
+FROM GEOPULSE_DB.PUBLIC.RAW_GPS_PINGS
+GROUP BY DAY_OF_WEEK
+ORDER BY DAY_OF_WEEK;
