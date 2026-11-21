@@ -1,0 +1,12 @@
+summary_type,category,record_count,unique_devices,within_500m_count
+Overall,All GPS Records,500,118,333
+daypart,Early Morning,77,56,53
+daypart,Evening Rush,151,83,100
+daypart,Midday,88,61,58
+daypart,Morning Rush,112,76,75
+daypart,Night,72,58,47
+activity_area,CYBER_HUB,133,78,129
+activity_area,GOLF_COURSE_ROAD,101,69,93
+activity_area,OFFICE_DISTRICT,72,55,0
+activity_area,RESIDENTIAL,76,58,0
+activity_area,SECTOR_29,118,78,111
