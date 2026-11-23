@@ -1,0 +1,11 @@
+analysis_type,rank,category,record_count,unique_devices,within_500m_count,coverage_percentage
+Activity Area,1,CYBER_HUB,133,78,129,96.99
+Activity Area,2,SECTOR_29,118,78,111,94.07
+Activity Area,3,GOLF_COURSE_ROAD,101,69,93,92.08
+Activity Area,4,RESIDENTIAL,76,58,0,0.0
+Activity Area,5,OFFICE_DISTRICT,72,55,0,0.0
+Daypart,1,Evening Rush,151,83,100,66.23
+Daypart,2,Morning Rush,112,76,75,66.96
+Daypart,3,Midday,88,61,58,65.91
+Daypart,4,Early Morning,77,56,53,68.83
+Daypart,5,Night,72,58,47,65.28
