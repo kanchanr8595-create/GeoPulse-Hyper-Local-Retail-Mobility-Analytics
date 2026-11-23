@@ -1,6 +1,6 @@
  – Final Data Validation
 
-# 1. Objective
+## 1. Objective
 
 The objective of Day 2 was to define and verify validation rules for the GeoPulse GPS Pings dataset and Store Locations dataset.
 
@@ -11,7 +11,7 @@ Data validation ensures that the collected GPS information follows the expected 
 1. "GeoPulse_500_Synthetic_GPS_Pings.csv"
 2. "GeoPulse_Store_Locations.csv"
 
-# 3. Validation Rules
+## 3. Validation Rules
 
 A. DeviceID Validation
 
@@ -79,7 +79,7 @@ Example:
 
 "2026-10-05 18:26:25"
 
-4. Additional Validation Checks
+## 4. Additional Validation Checks
 
 The following checks were also performed:
 
@@ -89,7 +89,7 @@ The following checks were also performed:
 - Store latitude and longitude should be within valid geographical ranges.
 - Store catchment radius should be positive.
 
-5. Final Validation Results
+## 5. Final Validation Results
 
 Validation Check| GPS Pings| Store Locations
 Total Records| 500| 3
@@ -108,7 +108,7 @@ Additional results:
 - Invalid store references: 0
 - Invalid store catchment radii: 0
 
-6. Timestamp Analysis
+## 6. Timestamp Analysis
 
 The GPS dataset contains records from:
 
@@ -117,7 +117,7 @@ The GPS dataset contains records from:
 
 All 500 timestamp values were successfully converted into datetime format.
 
-7. Conclusion
+##  7. Conclusion
 
 The final validation checks showed that both GeoPulse datasets satisfy the defined basic data-quality rules.
 
@@ -127,13 +127,13 @@ All GPS device identifiers followed the expected format, and all referenced stor
 
 The datasets are suitable to proceed to the next stages of data processing, subject to further quality checks and project-specific requirements.
 
-8. Tools Used
+## 8. Tools Used
 
 - Python
 - Pandas
 - NumPy
 - Google Colab
 
-9. Deliverable
+## 9. Deliverable
 
 Completed validation rules and validation results for the GPS Pings and Store Locations datasets.
