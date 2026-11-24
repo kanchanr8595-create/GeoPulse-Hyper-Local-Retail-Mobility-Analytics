@@ -1,0 +1,4 @@
+store_id,store_name,store_status,footfall_records,unique_devices,average_distance_m,pings_within_500m,within_500m_percentage
+STORE_A,Cyber Hub Coffee,existing,214,100,613.44,129,60.28
+STORE_C,Sector 29 Coffee,existing,185,94,807.75,111,60.0
+CANDIDATE_B,Golf Course Road Candidate,candidate,101,69,260.26,93,92.08
