@@ -1,0 +1,9 @@
+check_name,status,details
+Required columns,PASS,Missing columns: []
+Duplicate store IDs,PASS,Each store should appear only once
+Negative footfall,PASS,Footfall counts must be non-negative
+Unique devices within footfall,PASS,Unique devices cannot exceed total pings
+Valid 500m counts,PASS,500m counts must be within total footfall
+Percentage range,PASS,Percentage must be between 0 and 100
+Percentage calculation,PASS,Verify 500m percentage calculation
+Non-negative distance,PASS,Average distance must not be negative
